@@ -30,13 +30,13 @@ To use this project run `npm start` command in terminal of your editor project w
 ## Author
 ## 👤 **Emmanuel Paul**
 
-- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/Math-Magicians)
+- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/React-Tutorial)
 - Twitter: [Emmanuel Paul](http://twitter.com/@emmapaul247)
 - LinkedIn: [Emmanuel Paul](https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/)
 
 ## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Epaltechs/To-Do-list/issues).
+Feel free to check the [issues page](https://github.com/Epaltechs/React-Tutorial/issues).
 
 ## Show your support
 Give a :star:️ if you like this project!
